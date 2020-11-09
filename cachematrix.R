@@ -6,7 +6,7 @@
 ## containing a function to
 ## 1. set the value of the matrix
 ## 2. get the value of the matrix
-## 3. set the inverse of the mattrix
+## 3. set the inverse of the matrix
 ## 4. get the inverse of the matrix
 
 
